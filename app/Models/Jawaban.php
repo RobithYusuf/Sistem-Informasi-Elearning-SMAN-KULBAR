@@ -11,7 +11,7 @@ class Jawaban extends Model
 {
     use HasFactory;
 
-    protected $table = 'Jawaban';
+    protected $table = 'jawaban';
     protected $fillable = ['id_jawaban','id_siswa','kode_tugas','file', 'created_at'];
     protected $primaryKey = 'id_jawaban';
 

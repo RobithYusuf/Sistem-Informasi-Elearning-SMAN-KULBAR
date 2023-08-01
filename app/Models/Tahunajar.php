@@ -9,7 +9,7 @@ class Tahunajar extends Model
 {
     use HasFactory;
 
-    protected $table = 'Tahun_ajar';
+    protected $table = 'tahun_ajar';
     protected $fillable = ['id_ajar','tahun_ajaran','semester','status'];
     protected $primaryKey = 'id_ajar';
 

@@ -10,7 +10,7 @@ class Tugas extends Model
 {
     use HasFactory;
 
-    protected $table = 'Tugas';
+    protected $table = 'tugas';
     protected $fillable = ['kode_tugas','kode_mapel','nama_tugas','deskripsi','file','deadline','kode_kelas','tahun_id','created_at'];
     protected $primaryKey = 'kode_tugas';
 
