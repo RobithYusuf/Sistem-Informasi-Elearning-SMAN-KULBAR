@@ -8,7 +8,7 @@ Sistem E-Learning ini merupakan platform belajar online yang dibangun menggunaka
 - **Manajemen Kursus**: Pengajar dapat membuat, mengedit, dan menghapus kursus beserta materinya.
 - **Quiz dan Evaluasi**: Fitur untuk membuat dan mengelola quiz serta menilai jawaban peserta didik.
 - **Dashboard**: Dashboard khusus untuk pengajar dan peserta didik dengan fungsi dan informasi yang relevan.
-- **Forum Diskusi**: Ruang untuk diskusi antara pengajar dan peserta didik untuk setiap kursus.
+- **Manajemen Pelajaran**: Proses pengelolaan mata pelajaran siswa.
 
 ## Teknologi yang Digunakan
 
