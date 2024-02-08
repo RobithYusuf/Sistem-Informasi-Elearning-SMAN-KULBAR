@@ -19,8 +19,7 @@ Sistem E-Learning ini merupakan platform belajar online yang dibangun menggunaka
 ## Screenshot Sistem E-Learning
 
 ![Screenshot Sistem E-Learning](https://i.postimg.cc/V5yVXMkD/Elearning-SS.png "Screenshot Sistem E-Learning")
-![Screenshot Sistem E-Learning]
-(https://i.postimg.cc/mrMnVkrF/Elearning-SS-2.png "Screenshot Sistem E-Learning")
+![Screenshot Sistem E-Learning](https://i.postimg.cc/mrMnVkrF/Elearning-SS-2.png "Screenshot Sistem E-Learning")
 
 
 
