@@ -1,4 +1,4 @@
-# Sistem E-Learning Laravel
+# Sistem E-Learning SMA Laravel
 
 Sistem E-Learning ini merupakan platform belajar online yang dibangun menggunakan framework Laravel. Platform ini dirancang untuk memudahkan pengajar dalam membuat materi kursus dan quiz, serta memungkinkan peserta didik untuk belajar secara efektif dari mana saja.
 
@@ -12,21 +12,10 @@ Sistem E-Learning ini merupakan platform belajar online yang dibangun menggunaka
 
 ## Teknologi yang Digunakan
 
-- Laravel 8
-- MySQL
+- Laravel 9
+- MySQL DB
 - Bootstrap 4 untuk frontend
-- Vue.js (Opsional untuk SPA)
 
-## Instalasi
+![Screenshot Sistem E-Learning](https://i.postimg.cc/V5yVXMkD/Elearning-SS.png "Screenshot Sistem E-Learning")
 
-Pastikan Anda sudah memiliki Composer dan npm terinstal di sistem Anda.
 
-```bash
-git clone https://github.com/usernamemu/sistem-elearning-laravel.git
-cd sistem-elearning-laravel
-composer install
-npm install
-npm run dev
-
-cp .env.example .env
-php artisan key:generate
