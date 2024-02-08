@@ -1,4 +1,4 @@
-# Sistem E-Learning dengan Laravel
+# Sistem E-Learning Laravel
 
 Sistem E-Learning ini merupakan platform belajar online yang dibangun menggunakan framework Laravel. Platform ini dirancang untuk memudahkan pengajar dalam membuat materi kursus dan quiz, serta memungkinkan peserta didik untuk belajar secara efektif dari mana saja.
 
