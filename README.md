@@ -21,6 +21,9 @@ Sistem E-Learning sebagai platform belajar online yang dibangun menggunakan fram
 ![Screenshot Sistem E-Learning](https://i.postimg.cc/V5yVXMkD/Elearning-SS.png "Screenshot Sistem E-Learning")
 ![Screenshot Sistem E-Learning](https://i.postimg.cc/mrMnVkrF/Elearning-SS-2.png "Screenshot Sistem E-Learning")
 
+## Instalasi
+
+1. Clone repositori ini: https://github.com/RobithYusuf/Sistem-Informasi-Elearning-SMAN-KULBAR.git
 
 
 
